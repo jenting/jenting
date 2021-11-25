@@ -5,7 +5,7 @@
 
 - 👯 I’m collaborate on [Velero](https://github.com/vmware-tanzu/velero)
 
-- 👨‍💻 I'm work on my project [kucero](https://github.com/SUSE/kuceo)
+- 👨‍💻 I'm work on my project [kucero](https://github.com/SUSE/kucero)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
