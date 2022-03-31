@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JenTing</h1>
 <h3 align="center">A passionate cloud native developer.</h3>
 
-- 🔭 I’m currently working on [Longhorn](https://github.com/longhorn/longhorn)
+- 🔭 I was working on [Longhorn](https://github.com/longhorn/longhorn)
 - 👯 I’m collaborate on [Velero](https://github.com/vmware-tanzu/velero)
 - 👨‍💻 I'm work on my project [kucero](https://github.com/SUSE/kucero)
 
