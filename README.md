@@ -2,9 +2,9 @@
 <h3 align="center">A passionate cloud native developer.</h3>
 
 - :computer: I'm working on [Gitpod](https://github.com/gitpod-io/gitpod)
+- 👨‍💻 I'm work on my project [kucero](https://github.com/SUSE/kucero)
 - 🔭 I was working on [Longhorn](https://github.com/longhorn/longhorn)
 - 👯 I collaborated on [Velero](https://github.com/vmware-tanzu/velero)
-- 👨‍💻 I'm work on my project [kucero](https://github.com/SUSE/kucero)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
