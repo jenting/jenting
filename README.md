@@ -3,7 +3,7 @@
 
 - :computer: I'm working on [Gitpod](https://github.com/gitpod-io/gitpod)
 - 🔭 I was working on [Longhorn](https://github.com/longhorn/longhorn)
-- 👯 I’m collaborate on [Velero](https://github.com/vmware-tanzu/velero)
+- 👯 I collaborated on [Velero](https://github.com/vmware-tanzu/velero)
 - 👨‍💻 I'm work on my project [kucero](https://github.com/SUSE/kucero)
 
 <h3 align="left">Languages and Tools:</h3>
