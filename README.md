@@ -2,7 +2,7 @@
 <h3 align="center">A passionate cloud native developer.</h3>
 
 - :computer: I'm working on [Gitpod](https://github.com/gitpod-io/gitpod)
-- 👨‍💻 I'm work on my project [kucero](https://github.com/SUSE/kucero)
+- 👨‍💻 I'm work on my project [kucero](https://github.com/jenting/kucero)
 - 🔭 I was working on [Longhorn](https://github.com/longhorn/longhorn)
 - 👯 I collaborated on [Velero](https://github.com/vmware-tanzu/velero)
 
