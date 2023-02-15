@@ -2,7 +2,7 @@
 
 A passionate and exquisite software developer with 5+ years of experience producing reliable code for the backend, Kubernetes, and cloud-native projects. Thorough thinker from the user and product point of view. An innovator to lead new technology and habit into the team. Good at working synchronously/asynchronously worldwide.
 
-I’m seeking a remote job and a senior/staff software engineer or engineer manager.
+I’m seeking a remote job and a senior/staff/principal software engineer.
 
 - 👨‍💻 I'm working on my project [kucero](https://github.com/SUSE/kucero)
 - 👯 I'm collaborating on [Velero](https://github.com/vmware-tanzu/velero)
