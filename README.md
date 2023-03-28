@@ -4,8 +4,7 @@ A passionate and exquisite software developer with 6 years of experience produci
 
 - 👨‍💻 I'm working on my project [kucero](https://github.com/SUSE/kucero)
 - 👯 I'm collaborating on [Velero](https://github.com/vmware-tanzu/velero)
-- ☁️ I was working on [Gitpod](https://github.com/gitpod-io/gitpod)
-- 🔭 I was working on [Longhorn](https://github.com/longhorn/longhorn)
+- ☁️ I was working on [Gitpod](https://github.com/gitpod-io/gitpod) and [Longhorn](https://github.com/longhorn/longhorn)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
