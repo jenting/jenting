@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JenTing</h1>
 
-A passionate and exquisite software developer with 7 years of experience producing reliable code for the backend, Kubernetes, and cloud-native projects. Product-oriented, thorough thinker from the user experience and product point of view. An innovator to lead new technology and habit into the team. Good at working synchronously/asynchronously worldwide.
+A passionate and exquisite software developer with 8 years of experience producing reliable code for the backend, Kubernetes, and cloud-native projects. Product-oriented, thorough thinker from the user experience and product point of view. An innovator to lead new technology and habit into the team. Good at working synchronously/asynchronously worldwide.
 
 - 👨‍💻 I'm working on my project [kucero](https://github.com/SUSE/kucero)
 - 👯 I'm collaborating on [Velero](https://github.com/vmware-tanzu/velero)
